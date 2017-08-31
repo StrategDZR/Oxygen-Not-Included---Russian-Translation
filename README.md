@@ -3,13 +3,15 @@
 Русская локализация для игры "Oxygen Not Included"
 
 Информация о переводе в Steam: http://steamcommunity.com/sharedfiles/filedetails/?id=874932276
+*Актуальная версия в Steam, гит версия пока обновляться не будет.*
+
 
 ## Условия использования перевода
 Перевод запрещено использовать с целью внесения изменений и\или распространения, в том числе под своим именем. 
 Перевод разрешен и предназначен для использования только в том виде, в котором он существует, в игре Oxygen Not Inluded. 
 ## Usage permissions and limitations
 Translation not allowed to use for editing or/and publishing under third-party name, fully or partly.
-Translation permitted and made to be used only in existing form in the game Oxygen Not Inluded.
+Translation permitted and made to be used only in existing form in the game Oxygen Not Included.
 
 # Участники перевода
 Ony, Cores, ShaTiK, SealOfTheTime, henko, Dr. RPgK
